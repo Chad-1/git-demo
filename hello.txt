@@ -8,7 +8,6 @@ public class Person{
 	system.out.prinln("你好"); 手动添加数据（第二次添加）
 	system.out.prinln("新插入数据");
 	system.out.prinln("新插入数据");aaaaaaaa第三次
- }
- }
+	system.out.prinln("新插入数据");hot-fix 修改的数据
  }
 }
